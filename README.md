@@ -27,8 +27,7 @@ Prophet is used as a baseline interpretable forecasting model before applying ad
   - `y` → aggregated solar generation (MW)
 - Source: ENTSO-E Transparency Platform
 - Values represent **average power (MW)** over each 15-minute interval.
-- The dataset is consist of the diverse resources of power geneneration. Solar power is extracted from dataset from 2022 January to 2025 Octorber.
-
+- The dataset consists of diverse resources of power generation. Solar power is extracted from the Entso-E dataset from 2022 January to 2025 October. Nink - https://transparency.entsoe.eu/
 
 ---
 
