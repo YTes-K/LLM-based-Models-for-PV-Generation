@@ -52,7 +52,7 @@ model = Prophet(
 ```
 ## XGBoost
 
-# ⚡ PV Power Generation Forecasting using XGBoost
+# PV Power Generation Forecasting using XGBoost
 
 This project implements an **XGBoost regression model** for photovoltaic (PV) power generation forecasting.
 
